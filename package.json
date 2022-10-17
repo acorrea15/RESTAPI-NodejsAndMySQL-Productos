@@ -1,7 +1,7 @@
 {
   "name": "restapi-nodejsandmysql",
   "version": "1.0.0",
-  "description": "API-REST con Node.js y MySQL que responde a las peticiones del robot de ICF24 que hace el refresh de los movimientos de los clientes de InterBanking. Versión Pública de prueba con datos ficticios.",
+  "description": "API-REST con Node.js y MySQL que responde a las peticiones de los alumnos de la comision 5i para listar o dar de alta Productos para un ecommerce.",
   "main": "index.js",
   "type": "module",
   "scripts": {
