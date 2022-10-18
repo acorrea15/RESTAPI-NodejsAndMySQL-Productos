@@ -1,5 +1,5 @@
 import {Router} from 'express'; //Para poder crear toda una sección de rutas es como agrupar todas las rutas y colocarles un nombre
-import {getProductos, createProducto, updateProducto, deleteProductos, getProducto} from '../controllers/Productos.controllers.js'
+import {getProductos, createProducto, updateProducto, deleteProductos, getProducto} from '../controllers/productos.controllers.js'
 //Le digo a Express que tengo una especie de grupos de routers
 const router = Router(); // Creo un enrutador que viene a partir de la ejecución del Router()
 
