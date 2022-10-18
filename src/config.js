@@ -2,7 +2,7 @@ import {config} from 'dotenv';
 
 config();  // Con estas dos líneas de código, ya estoy leyend Variables de Entorno.
 
-export const PORT = process.env.PORT || 3000;
+export const PORT = process.env.PORT || 3001;
 
 export const DB_USER = process.env.DB_USER || 'root';
 export const DB_PASSWORD = process.env.DB_PASSWORD || '2531';
