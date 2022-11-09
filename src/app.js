@@ -1,6 +1,6 @@
 import express from "express";
 import productosRoutes from './routes/productos.routes.js'
-import indexRoutes from './routes/index.routes.js'
+import indexRoutes from './routes/index.routes.js' 
 
 //Creo un servidor básico
 const app = express();
